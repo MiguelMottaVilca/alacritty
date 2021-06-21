@@ -30,20 +30,20 @@ background_opacity: 0.9
 
 font:
   normal:
-    family: "Hack"
+    #  family: "Hack"
     style: Regular
   bold:
-    family: "Hack"
+    # family: "Hack"
     style: Bold
   italic:
-    family: "Hack"
+    # family: "Hack"
     style: Italic
   bold_italic:
-    family: "Hack"
+    # family: "Hack"
     style: Bold Italic
 
   # Point size
-  size: 12.0
+  size: 10.0
 
   offset:
     x: 0
@@ -52,10 +52,10 @@ font:
     x: 0
     y: 0
 
-window:
+  #window:
   padding:
-    x: 2
-    y: 2
+    x: 0
+    y: 0
 
 scrolling:
   # Maximum number of lines in the scrollback buffer.
